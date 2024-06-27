@@ -1,6 +1,6 @@
 
 ### Olá! Eu sou Edmundo 🙋‍♂️
-Apaixonado por tecnologia, Atualmente estudando React native para desenvolver aplicativos android/IOS
+Apaixonado por tecnologia, Atualmente estudando ReactJS  e NodeJS
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmundo-roberto-lima-2466a6207/)
